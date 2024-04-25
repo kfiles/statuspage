@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: statuspage.soroco.com
-  baseUrl: /kfiles/statuspage
+  baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/kfiles/statuspage/master/assets/upptime-icon.svg
   name: Soroco Status
   introTitle: "**Scout Status** for Soroco customer cluster"
