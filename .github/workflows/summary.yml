@@ -21,7 +21,6 @@ on:
   repository_dispatch:
     types: [summary]
   workflow_dispatch:
-permissions: write-all
 jobs:
   release:
     name: Generate README
