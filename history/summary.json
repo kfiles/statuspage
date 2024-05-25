@@ -13,7 +13,7 @@
     "time": 129,
     "timeDay": 82,
     "timeWeek": 113,
-    "timeMonth": 131,
+    "timeMonth": 126,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 217,
     "timeDay": 863,
     "timeWeek": 275,
-    "timeMonth": 217,
+    "timeMonth": 219,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "scout-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 265,
     "timeDay": 284,
     "timeWeek": 310,
-    "timeMonth": 262,
+    "timeMonth": 252,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
